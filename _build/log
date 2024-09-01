@@ -1,0 +1,6 @@
+# dune init proj personal_site
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Shared cache location: /home/liam-carpenter/.cache/dune/db
+# Workspace root: /home/liam-carpenter/personal_site
+# Auto-detected concurrency: 16
