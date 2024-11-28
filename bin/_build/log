@@ -1,0 +1,15 @@
+# dune exec --root . ./main.exe
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Shared cache location: /home/liam-carpenter/.cache/dune/db
+# Workspace root: /home/liam-carpenter/personal_site/bin
+# Auto-detected concurrency: 16
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; instrument_with = []
+#  }

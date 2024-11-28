@@ -1,0 +1,5 @@
+lib: [
+  "_build/install/default/lib/personal_site/META"
+  "_build/install/default/lib/personal_site/dune-package"
+  "_build/install/default/lib/personal_site/opam"
+]

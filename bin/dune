@@ -1,4 +1,7 @@
 (executable
- (public_name personal_site)
+ (modes exe)
  (name main)
- (libraries personal_site))
+ (libraries js_of_ocaml  bonsai dream views)
+ (preprocess (pps ppx_jane bonsai.ppx_bonsai js_of_ocaml-ppx))
+)
+; (executable (name main) (modes js))
