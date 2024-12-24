@@ -12,5 +12,5 @@
    vdom
  )
  (preprocess
-  (pps ppx_jane js_of_ocaml-ppx ppx_typed_fields ppx_css bonsai.ppx_bonsai))
+  (pps  ppx_jane js_of_ocaml-ppx ppx_typed_fields ppx_css bonsai.ppx_bonsai))
 )
